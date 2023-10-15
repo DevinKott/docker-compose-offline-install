@@ -1,0 +1,6 @@
+version: '3'
+services:
+  test_service_1:
+    image: alpine:3.18.4
+  test_service_2:
+    image: alpine:3.15.10
